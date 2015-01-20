@@ -10,6 +10,9 @@ while($i<=5)
   echo "The number is " . $i . "<br />";
   $i++;
   }
+
+phpinfo();
+
 ?>
 
 </body>
